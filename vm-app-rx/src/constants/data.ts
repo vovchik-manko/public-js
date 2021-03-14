@@ -1,0 +1,1 @@
+export const STREAM_RESPONSE_DELAY = 5000;
